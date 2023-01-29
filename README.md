@@ -31,5 +31,7 @@ I seek challenging opportunities where i can fully use my skills for the success
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
+<a href="https://www.atlassian.com/software/jira/" target="_blank" rel="noreferrer"><img src="https://cms.rootstack.com/sites/default/files/inline-images/Jira-new-logo_0.png" width="36" height="36" alt="Jira" /></a>
+</p>
 
 ### Work
