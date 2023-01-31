@@ -7,7 +7,7 @@ Flutter, iOS, MERN
 I seek challenging opportunities where i can fully use my skills for the success of the organization.
 
 * 🌍  I'm based in Yangon, Myanmar
-* 🖥️  See my portfolio at [GitHub](http://github.com/paingsoe-oo)
+* 🖥️  See my portfolio at [GitHub](https://github.com/paingsoe-oo?tab=repositories)
 * ✉️  You can contact me at [mgpaingsoe.ps@gmail.com](mailto:mgpaingsoe.ps@gmail.com)
 * 🚀  I'm currently working on [MERN-Blog\_App](http://github.com/paingsoe-oo/MERN-Blog_App)
 * 🧠  I'm learning SwiftUI
