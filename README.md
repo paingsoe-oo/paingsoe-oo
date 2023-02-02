@@ -32,7 +32,7 @@ I seek challenging opportunities where i can fully use my skills for the success
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="50" height="36" alt="Flutter" /></a>
 </p>
 <a href="https://www.atlassian.com/software/jira/" target="_blank" rel="noreferrer"><img src="https://arthas.azhdari.biz/Uploads/main/10016/101.jpg" 
-                                                                     width="50" height="36" alt="Jira" /></a>
+                                                                     width="60" height="50" alt="Jira" /></a>
 </p>
 
 ### Work
